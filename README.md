@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo.png" alt="Repeater Organizer Logo" width="200"/>
+  <img src="Repeater_Orginizer.png" alt="Repeater Organizer Logo" width="200"/>
   <h1>Repeater Organizer</h1>
   <p>A powerful Burp Suite extension to automatically name and organize your Repeater tabs.</p>
   
@@ -31,17 +31,18 @@ Repeater Organizer is a Burp Suite extension written in Python (Jython) that aut
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="screenshot1.png" alt="Smart Naming Configuration" width="600"/>
+  <img src="Messy_Repeater_Before.png" alt="Before Smart Naming" width="400"/>
+  <img src="Clean_Repeater_After.png" alt="After Smart Naming" width="400"/>
   <br>
-  <i>Smart Naming Configuration UI</i>
+  <i>Before & After: Smart Naming in Action</i>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="screenshot2.png" alt="Custom Format Engine" width="600"/>
+  <img src="Repeater_Orginizer_Custom_Formats.png" alt="Custom Format Engine" width="600"/>
   <br>
-  <i>Custom Format Engine in Action</i>
+  <i>Custom Format Engine Configuration</i>
 </div>
 
 ---

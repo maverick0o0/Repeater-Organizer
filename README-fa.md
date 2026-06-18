@@ -1,5 +1,5 @@
 <div align="center" dir="rtl">
-  <img src="logo.png" alt="Repeater Organizer Logo" width="200"/>
+  <img src="Repeater_Orginizer.png" alt="Repeater Organizer Logo" width="200"/>
   <h1>Repeater Organizer</h1>
   <p>افزونه‌ای قدرتمند برای Burp Suite جهت نام‌گذاری و مرتب‌سازی خودکار تب‌های Repeater.</p>
 
@@ -33,17 +33,18 @@
 ## 📸 تصاویر محیط کار
 
 <div align="center">
-  <img src="screenshot1.png" alt="Smart Naming Configuration" width="600"/>
+  <img src="Messy_Repeater_Before.png" alt="قبل از Smart Naming" width="400"/>
+  <img src="Clean_Repeater_After.png" alt="بعد از Smart Naming" width="400"/>
   <br>
-  <i>محیط کاربری Smart Naming</i>
+  <i>قبل و بعد: عملکرد Smart Naming</i>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="screenshot2.png" alt="Custom Format Engine" width="600"/>
+  <img src="Repeater_Orginizer_Custom_Formats.png" alt="Custom Format Engine" width="600"/>
   <br>
-  <i>عملکرد Custom Format Engine</i>
+  <i>پیکربندی Custom Format Engine</i>
 </div>
 
 ---
