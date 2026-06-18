@@ -31,28 +31,28 @@ Repeater Organizer is a Burp Suite extension written in Python (Jython) that aut
 
 ### 🌪️ Before: The Messy Numbers
 <div align="center">
-  <img src="Messy_Repeater_Before.png" alt="Before Smart Naming" width="100%"/>
+  <img src="images/Messy_Repeater_Before.png" alt="Before Smart Naming" width="100%"/>
 </div>
 
 <br>
 
 ### 🌟 After: Organized with Smart Naming
 <div align="center">
-  <img src="Clean_Repeater_After.png" alt="After Smart Naming" width="100%"/>
+  <img src="images/Clean_Repeater_After.png" alt="After Smart Naming" width="100%"/>
 </div>
 
 <br>
 
 ### ⚙️ Smart Naming Configuration UI
 <div align="center">
-  <img src="Repeater_Orginizer.png" alt="Smart Naming UI" width="100%"/>
+  <img src="images/Repeater_Orginizer.png" alt="Smart Naming UI" width="100%"/>
 </div>
 
 <br>
 
 ### 🛠️ Custom Format Engine Configuration
 <div align="center">
-  <img src="Repeater_Orginizer_Custom_Formats.png" alt="Custom Format Engine UI" width="100%"/>
+  <img src="images/Repeater_Orginizer_Custom_Formats.png" alt="Custom Format Engine UI" width="100%"/>
 </div>
 
 ---

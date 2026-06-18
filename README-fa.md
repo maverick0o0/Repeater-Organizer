@@ -31,28 +31,28 @@
 
 ### 🌪️ قبل: تب‌های عددی و نامشخص
 <div align="center">
-  <img src="Messy_Repeater_Before.png" alt="قبل از Smart Naming" width="100%"/>
+  <img src="images/Messy_Repeater_Before.png" alt="قبل از Smart Naming" width="100%"/>
 </div>
 
 <br>
 
 ### 🌟 بعد: مرتب‌شده با Smart Naming
 <div align="center">
-  <img src="Clean_Repeater_After.png" alt="بعد از Smart Naming" width="100%"/>
+  <img src="images/Clean_Repeater_After.png" alt="بعد از Smart Naming" width="100%"/>
 </div>
 
 <br>
 
 ### ⚙️ محیط کاربری Smart Naming
 <div align="center">
-  <img src="Repeater_Orginizer.png" alt="Smart Naming UI" width="100%"/>
+  <img src="images/Repeater_Orginizer.png" alt="Smart Naming UI" width="100%"/>
 </div>
 
 <br>
 
 ### 🛠️ محیط کاربری Custom Format
 <div align="center">
-  <img src="Repeater_Orginizer_Custom_Formats.png" alt="Custom Format Engine UI" width="100%"/>
+  <img src="images/Repeater_Orginizer_Custom_Formats.png" alt="Custom Format Engine UI" width="100%"/>
 </div>
 
 ---
